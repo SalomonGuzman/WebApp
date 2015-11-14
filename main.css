@@ -1,0 +1,49 @@
+body{
+	background: grey;
+	font-family: arial;
+}
+
+h1{
+	background: #777;
+	color: white;
+	padding: 2px;
+}
+
+.container{
+	border: 1px solid black;
+	margin-top: 3px;
+}
+
+.navbar-header{
+
+}
+
+.columns{
+	float:left;
+	width: 23%;
+	margin: 1%;
+}
+
+.panel-heading{
+	background: lightblue;
+	margin: 0px;
+	padding: 3px;
+	border-radius: 5px;
+}
+
+.language {
+    margin:0;
+    padding: 0;
+    border:black
+}
+
+.jumbotron{
+	margin: 5px;
+	padding: 5px;
+	background: #666;
+}
+
+button{
+	border-spacing: 10%;
+	margin: 20%;
+}
